@@ -7,7 +7,6 @@ The pipeline used for this example consists of several step steps:
 1. Problem Definition
 2. Data Collection
 3. Exploratory Data Analysis
-4. Web Dashboard Visualization
 5. Modeling (Data cleaning, split the data, train, testing, tunning)
 5. Implementation (optional)
 
@@ -21,11 +20,9 @@ For data description, you can refer to that link or datadisc.txt on my repo
 ## Exploratory Data Analysis
 ### Summary:
 
-
-## Web Dashboard Monitoring
-### Summary:
-
 ## Modeling
+
+## Result
 
 
 #Reference 
